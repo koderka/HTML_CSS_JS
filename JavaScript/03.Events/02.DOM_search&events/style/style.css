@@ -1,0 +1,32 @@
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    border: black 2px solid;
+    margin: 20px;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.button {
+    border-radius: 7px;
+    color: #ffffff;
+    font-size: 25px;
+    background: #3498db;
+    padding: 10px 20px 10px 20px;
+    margin: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.listContainer {
+    border-radius: 5px;
+    border: black 2px solid;
+    margin: 20px;
+}
+
+.hovered {
+    border: solid 2px green;
+}
